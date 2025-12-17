@@ -1,136 +1,24 @@
 {
   "version": 1,
-  "base_track": "ヨルシカ - LIVE 2024「前世」",
-  "base_artist": "ヨルシカ / n-buna Official",
-  "createdAt": "2025-12-01T22:52:46.535015Z",
+  "base_track": "ルバート",
+  "base_artist": "ヨルシカ",
+  "createdAt": "2025-12-17T17:58:20.881702Z",
   "candidates": [
     {
       "id": "lrclib_1",
       "source": "lrclib",
-      "title": "melt (with suis from ヨルシカ)",
-      "artist": "TK from 凛として時雨",
-      "has_synced": false,
-      "path": "select/01_melt_(with_suis_from_ヨルシカ)_TK_from_凛として時雨.txt"
-    },
-    {
-      "id": "lrclib_2",
-      "source": "lrclib",
-      "title": "unravel ( n-buna from ヨルシカ Remix )",
-      "artist": "TK from Ling tosite sigure",
-      "has_synced": false,
-      "path": "select/02_unravel_(_n-buna_from_ヨルシカ_Remix_)_TK_from_Ling_tosite_sigure.txt"
-    },
-    {
-      "id": "lrclib_3",
-      "source": "lrclib",
-      "title": "ヨルシカ - ただ君に晴れ",
+      "title": "ルバート",
       "artist": "ヨルシカ",
       "has_synced": true,
-      "path": "select/03_ヨルシカ_-_ただ君に晴れ_ヨルシカ.lrc"
-    },
-    {
-      "id": "lrclib_4",
-      "source": "lrclib",
-      "title": "unravel (n-buna from ヨルシカ Remix) - Exhibition edit",
-      "artist": "TK from Ling tosite sigure/n-buna",
-      "has_synced": true,
-      "path": "select/04_unravel_(n-buna_from_ヨルシカ_Remix)_-_Exhibition_edit_TK_from_Ling_tosite_sigure_n-buna.lrc"
-    },
-    {
-      "id": "lrclib_5",
-      "source": "lrclib",
-      "title": "unravel (n-buna from ヨルシカ Remix)",
-      "artist": "TK from 凛として時雨",
-      "has_synced": true,
-      "path": "select/05_unravel_(n-buna_from_ヨルシカ_Remix)_TK_from_凛として時雨.lrc"
-    },
-    {
-      "id": "lrclib_6",
-      "source": "lrclib",
-      "title": "ヨルシカ - だから僕は音楽を辞めた (Music Video) - That's Why I Gave Up on Music",
-      "artist": "Yorushika",
-      "has_synced": true,
-      "path": "select/06_ヨルシカ_-_だから僕は音楽を辞めた_(Music_Video)_-_That's_Why_I_Gave_Up_on_Music_Yorushika.lrc"
-    },
-    {
-      "id": "lrclib_7",
-      "source": "lrclib",
-      "title": "ヨルシカ - だから僕は音楽を辞めた (Music Video) - That's Why I Gave Up on Music",
-      "artist": "Yorushika",
-      "has_synced": true,
-      "path": "select/07_ヨルシカ_-_だから僕は音楽を辞めた_(Music_Video)_-_That's_Why_I_Gave_Up_on_Music_Yorushika.lrc"
-    },
-    {
-      "id": "lrclib_8",
-      "source": "lrclib",
-      "title": "ヨルシカ - 靴の花火 (Music Video)",
-      "artist": "Yorushika",
-      "has_synced": true,
-      "path": "select/08_ヨルシカ_-_靴の花火_(Music_Video)_Yorushika.lrc"
-    },
-    {
-      "id": "lrclib_9",
-      "source": "lrclib",
-      "title": "unravel (n-buna from ヨルシカ Remix) - Exhibition edit",
-      "artist": "TK from Ling tosite sigure",
-      "has_synced": true,
-      "path": "select/09_unravel_(n-buna_from_ヨルシカ_Remix)_-_Exhibition_edit_TK_from_Ling_tosite_sigure.lrc"
-    },
-    {
-      "id": "lrclib_10",
-      "source": "lrclib",
-      "title": "宇宙の季節 feat. Eve, suis from ヨルシカ",
-      "artist": "Lanndo",
-      "has_synced": true,
-      "path": "select/10_宇宙の季節_feat._Eve,_suis_from_ヨルシカ_Lanndo.lrc"
-    },
-    {
-      "id": "lrclib_11",
-      "source": "lrclib",
-      "title": "ヨルシカ - だから僕は音楽を辞めた (Music Video)",
-      "artist": "Yorushika",
-      "has_synced": true,
-      "path": "select/11_ヨルシカ_-_だから僕は音楽を辞めた_(Music_Video)_Yorushika.lrc"
-    },
-    {
-      "id": "lrclib_12",
-      "source": "lrclib",
-      "title": "unravel (n-buna from ヨルシカ Remix) - Exhibition edit",
-      "artist": "TK from Ling tosite sigure,n-buna",
-      "has_synced": false,
-      "path": "select/12_unravel_(n-buna_from_ヨルシカ_Remix)_-_Exhibition_edit_TK_from_Ling_tosite_sigure,n-buna.txt"
-    },
-    {
-      "id": "lrclib_13",
-      "source": "lrclib",
-      "title": "宇宙の季節( feat.Eve & suis (from ヨルシカ))",
-      "artist": "Lanndo",
-      "has_synced": true,
-      "path": "select/13_宇宙の季節(_feat.Eve_&_suis_(from_ヨルシカ))_Lanndo.lrc"
-    },
-    {
-      "id": "lrclib_14",
-      "source": "lrclib",
-      "title": "unravel (n-buna from ヨルシカ Remix)",
-      "artist": "TK",
-      "has_synced": true,
-      "path": "select/14_unravel_(n-buna_from_ヨルシカ_Remix)_TK.lrc"
-    },
-    {
-      "id": "lrclib_15",
-      "source": "lrclib",
-      "title": "unravel (n-buna from ヨルシカ Remix)",
-      "artist": "TK from Ling tosite sigure",
-      "has_synced": true,
-      "path": "select/15_unravel_(n-buna_from_ヨルシカ_Remix)_TK_from_Ling_tosite_sigure.lrc"
+      "path": "select/01_ルバート_ヨルシカ.lrc"
     },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "夜しかない国",
-      "artist": "山田大介 & Ring Ring Lonely Rollss",
+      "title": "ルバート",
+      "artist": "ヨルシカ",
       "has_synced": false,
-      "path": "select/pl_01_夜しかない国_山田大介_&_Ring_Ring_Lonely_Rollss.txt"
+      "path": "select/pl_01_ルバート_ヨルシカ.txt"
     }
   ]
 }
