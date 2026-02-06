@@ -1,72 +1,24 @@
 {
   "version": 1,
-  "base_track": "憂、燦々",
+  "base_track": "ルバート",
   "base_artist": "ヨルシカ",
-  "createdAt": "2026-01-14T02:41:57.266378Z",
+  "createdAt": "2026-02-06T11:33:04.770242Z",
   "candidates": [
     {
       "id": "lrclib_1",
       "source": "lrclib",
-      "title": "憂、燦々 - Yu, Sansan",
-      "artist": "Yorushika",
-      "has_synced": true,
-      "path": "select/01_憂、燦々_-_Yu,_Sansan_Yorushika.lrc"
-    },
-    {
-      "id": "lrclib_2",
-      "source": "lrclib",
-      "title": "憂、燦々",
-      "artist": "Yorushika",
-      "has_synced": true,
-      "path": "select/02_憂、燦々_Yorushika.lrc"
-    },
-    {
-      "id": "lrclib_3",
-      "source": "lrclib",
-      "title": "憂、燦々",
-      "artist": "Yorushika",
-      "has_synced": true,
-      "path": "select/03_憂、燦々_Yorushika.lrc"
-    },
-    {
-      "id": "lrclib_4",
-      "source": "lrclib",
-      "title": "憂、燦々",
+      "title": "ルバート",
       "artist": "ヨルシカ",
       "has_synced": true,
-      "path": "select/04_憂、燦々_ヨルシカ.lrc"
-    },
-    {
-      "id": "lrclib_5",
-      "source": "lrclib",
-      "title": "憂、燦々 - Yu, Sansan",
-      "artist": "Yorushika",
-      "has_synced": true,
-      "path": "select/05_憂、燦々_-_Yu,_Sansan_Yorushika.lrc"
-    },
-    {
-      "id": "lrclib_6",
-      "source": "lrclib",
-      "title": "憂、燦々 - Yu,Sansan",
-      "artist": "CreepHyp",
-      "has_synced": true,
-      "path": "select/06_憂、燦々_-_Yu,Sansan_CreepHyp.lrc"
-    },
-    {
-      "id": "lrclib_7",
-      "source": "lrclib",
-      "title": "憂、燦々",
-      "artist": "クリープハイプ",
-      "has_synced": true,
-      "path": "select/07_憂、燦々_クリープハイプ.lrc"
+      "path": "select/01_ルバート_ヨルシカ.lrc"
     },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "憂、燦々",
+      "title": "ルバート",
       "artist": "ヨルシカ",
       "has_synced": false,
-      "path": "select/pl_01_憂、燦々_ヨルシカ.txt"
+      "path": "select/pl_01_ルバート_ヨルシカ.txt"
     }
   ]
 }
