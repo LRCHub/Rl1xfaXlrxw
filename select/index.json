@@ -1,80 +1,40 @@
 {
   "version": 1,
-  "base_track": "晴る (Live)",
+  "base_track": "嘘月",
   "base_artist": "ヨルシカ",
-  "createdAt": "2026-03-10T07:41:39.384277Z",
+  "createdAt": "2026-03-10T13:48:57.341169Z",
   "candidates": [
     {
       "id": "lrclib_1",
       "source": "lrclib",
-      "title": "晴る",
-      "artist": "ヨルシカ",
+      "title": "嘘月",
+      "artist": "Yorushika",
       "has_synced": true,
-      "path": "select/01_晴る_ヨルシカ.lrc"
+      "path": "select/01_嘘月_Yorushika.lrc"
     },
     {
       "id": "lrclib_2",
       "source": "lrclib",
-      "title": "晴る",
-      "artist": "Yorushika",
-      "has_synced": false,
-      "path": "select/02_晴る_Yorushika.txt"
+      "title": "嘘月",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/02_嘘月_ヨルシカ.lrc"
     },
     {
       "id": "lrclib_3",
       "source": "lrclib",
-      "title": "晴る",
+      "title": "嘘月 (Liar)",
       "artist": "Yorushika",
       "has_synced": true,
-      "path": "select/03_晴る_Yorushika.lrc"
-    },
-    {
-      "id": "lrclib_4",
-      "source": "lrclib",
-      "title": "晴る",
-      "artist": "ヨルシカ",
-      "has_synced": true,
-      "path": "select/04_晴る_ヨルシカ.lrc"
-    },
-    {
-      "id": "lrclib_5",
-      "source": "lrclib",
-      "title": "晴る",
-      "artist": "ヨルシカ",
-      "has_synced": true,
-      "path": "select/05_晴る_ヨルシカ.lrc"
-    },
-    {
-      "id": "lrclib_6",
-      "source": "lrclib",
-      "title": "晴る - Sunny",
-      "artist": "Yorushika",
-      "has_synced": true,
-      "path": "select/06_晴る_-_Sunny_Yorushika.lrc"
-    },
-    {
-      "id": "lrclib_7",
-      "source": "lrclib",
-      "title": "晴る / Sunny",
-      "artist": "Yorushika",
-      "has_synced": true,
-      "path": "select/07_晴る___Sunny_Yorushika.lrc"
-    },
-    {
-      "id": "lrclib_8",
-      "source": "lrclib",
-      "title": "晴る (Paused)",
-      "artist": "ヨルシカ",
-      "has_synced": true,
-      "path": "select/08_晴る_(Paused)_ヨルシカ.lrc"
+      "path": "select/03_嘘月_(Liar)_Yorushika.lrc"
     },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "晴る",
+      "title": "嘘月",
       "artist": "ヨルシカ",
       "has_synced": false,
-      "path": "select/pl_01_晴る_ヨルシカ.txt"
+      "path": "select/pl_01_嘘月_ヨルシカ.txt"
     }
   ]
 }
