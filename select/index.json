@@ -1,40 +1,152 @@
 {
   "version": 1,
-  "base_track": "嘘月",
+  "base_track": "声",
   "base_artist": "ヨルシカ",
-  "createdAt": "2026-03-10T13:48:57.341169Z",
+  "createdAt": "2026-03-18T07:07:19.267730Z",
   "candidates": [
     {
       "id": "lrclib_1",
       "source": "lrclib",
-      "title": "嘘月",
+      "title": "声",
       "artist": "Yorushika",
       "has_synced": true,
-      "path": "select/01_嘘月_Yorushika.lrc"
+      "path": "select/01_声_Yorushika.lrc"
     },
     {
       "id": "lrclib_2",
       "source": "lrclib",
-      "title": "嘘月",
+      "title": "声",
       "artist": "ヨルシカ",
       "has_synced": true,
-      "path": "select/02_嘘月_ヨルシカ.lrc"
+      "path": "select/02_声_ヨルシカ.lrc"
     },
     {
       "id": "lrclib_3",
       "source": "lrclib",
-      "title": "嘘月 (Liar)",
-      "artist": "Yorushika",
+      "title": "声?",
+      "artist": "はてな",
       "has_synced": true,
-      "path": "select/03_嘘月_(Liar)_Yorushika.lrc"
+      "path": "select/03_声_はてな.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "声",
+      "artist": "Mr.Children",
+      "has_synced": true,
+      "path": "select/04_声_Mr.Children.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "声",
+      "artist": "CHIAKI SATO",
+      "has_synced": true,
+      "path": "select/05_声_CHIAKI_SATO.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "声",
+      "artist": "佐藤千亜妃",
+      "has_synced": true,
+      "path": "select/06_声_佐藤千亜妃.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "声",
+      "artist": "Mika Nakashima",
+      "has_synced": true,
+      "path": "select/07_声_Mika_Nakashima.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "声",
+      "artist": "中島 美嘉",
+      "has_synced": true,
+      "path": "select/08_声_中島_美嘉.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "声",
+      "artist": "majiko",
+      "has_synced": true,
+      "path": "select/09_声_majiko.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "声",
+      "artist": "Scandal",
+      "has_synced": true,
+      "path": "select/10_声_Scandal.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "声",
+      "artist": "中島美嘉",
+      "has_synced": true,
+      "path": "select/11_声_中島美嘉.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "声",
+      "artist": "グリーンボーイズ",
+      "has_synced": true,
+      "path": "select/12_声_グリーンボーイズ.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "声",
+      "artist": "Alia",
+      "has_synced": true,
+      "path": "select/13_声_Alia.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "声",
+      "artist": "内田彩",
+      "has_synced": false,
+      "path": "select/14_声_内田彩.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "声",
+      "artist": "中島美嘉",
+      "has_synced": false,
+      "path": "select/15_声_中島美嘉.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "声 - Acoustic Version",
+      "artist": "Majiko",
+      "has_synced": false,
+      "path": "select/16_声_-_Acoustic_Version_Majiko.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "声",
+      "artist": "THE BACK HORN",
+      "has_synced": true,
+      "path": "select/17_声_THE_BACK_HORN.lrc"
     },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "嘘月",
+      "title": "声",
       "artist": "ヨルシカ",
       "has_synced": false,
-      "path": "select/pl_01_嘘月_ヨルシカ.txt"
+      "path": "select/pl_01_声_ヨルシカ.txt"
     }
   ]
 }
